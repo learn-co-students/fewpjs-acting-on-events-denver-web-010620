@@ -32,12 +32,12 @@ console, and let's get a hold of what we're calling the "dodger":
 
 ```javascript
 let dodger = document.getElementById("dodger");
-```
+```    
 
 Awesome. Now let's change its color:
 
 ```javascript
-dodger.style.backgroundColor = "#000000";
+dodger.style.backgroundColor = "#000000"; 
 ```
 
 Whoa, where'd it go? Well, we changed the color to `#000000`, another way of
